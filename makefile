@@ -43,6 +43,10 @@ SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
 #ROMFS	:=	romfs
+APP_TITLE	:= 	"Test app"
+APP_AUTHOR	:=	"Glaze"
+APP_VERSION	:=	"0.1"
+#ICON := assets/icon.jpg
 
 #---------------------------------------------------------------------------------
 # options for code generation
